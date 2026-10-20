@@ -5,7 +5,7 @@
 - **CCID:** `sorachat`
 
 ## References and Resources
-`N/A`
+https://developer.android.com/develop/ui/compose/testing
 
 ## Verbal Collaboration
 `N/A`
